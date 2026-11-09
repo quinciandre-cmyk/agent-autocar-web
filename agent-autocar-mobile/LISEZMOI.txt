@@ -1,0 +1,15 @@
+AGENT AUTOCAR – version smartphone (site à publier gratuitement sur GitHub Pages)
+
+PUBLIER (voir la conversation pour le détail)
+1. Sur github.com, crée un dépôt PUBLIC nommé  agent-autocar-web  (GitHub Pages gratuit exige un dépôt public).
+2. Décompresse ce zip. Glisse TOUS les fichiers (pas le dossier, pas le zip) dans « Add file > Upload files ».
+3. Settings > Pages > Source : « Deploy from a branch », branche main, dossier « / (root) » > Save.
+4. Après 1 à 3 minutes, le site est à  https://TON-IDENTIFIANT.github.io/agent-autocar-web/
+
+CLÉ OPENROUTESERVICE : NE LA METS JAMAIS DANS cle.js SUR UN DÉPÔT PUBLIC (tout le monde la verrait).
+Laisse cle.js tel quel (vide). Sur le téléphone, ouvre UNE FOIS :
+   https://TON-IDENTIFIANT.github.io/agent-autocar-web/#cle=TA-CLE
+La clé est enregistrée sur le téléphone, puis effacée de l'adresse. Envoie-toi ce lien par un moyen privé.
+
+SIMULATION : conduite continue orange à 4 h et rouge à 4h30 ; TTE (conduite + autre travail +
+disponibilité) orange à 5h30 et rouge à 6 h ; une pause de 15, 30 ou 45 min (réglable) remet le TTE à zéro.
